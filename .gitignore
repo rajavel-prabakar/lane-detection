@@ -1,0 +1,59 @@
+# Ignore the TUSimple dataset folder
+TUSimple/
+TUSimple/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg
+*.egg-info/
+.eggs/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Data / results
+# *.csv
+# *.npy
+# *.npz
+# *.pkl
+# *.h5
+
+# Checkpoints or model files
+# *.pth
+# *.pt
+
+dataset/
+dataset/*
+
+
